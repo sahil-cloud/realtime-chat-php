@@ -1,8 +1,8 @@
 <?php 
-$to = "idhrudhr.carrental@gmail.com";
+$to = "";
 $sub = "hello";
 $body = "this is me";
-$headers = "From: sahiljasuja666@gmail.com";
+$headers = "From:";
 
 if(mail($to,$sub,$body,$headers)){
     echo "suxecss";
